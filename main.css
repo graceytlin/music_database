@@ -1,0 +1,46 @@
+body {
+	background-color: MintCream;
+	font-size: 15px;
+	font-family: Calibri Light;
+}
+
+h1 {
+	color: LightSeaGreen;
+	text-align: center;
+	font-weight: 500;
+	font-size: 35px;
+	font-style: italic;
+	font-family: 'Playfair Display', serif;
+}
+
+h2 {
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	font-size: 24px;
+	color: #20B2AA;
+	font-weight: lighter;
+	text-align: center;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+	width: 80%;
+	table-layout: fixed;
+	text-align: center;
+	border-style: hidden;
+  }
+
+table td, table th, table tr {
+	border: 0.5px solid;
+}
+
+.link {
+	text-decoration: none;
+}
+
+input.font {
+	font-family: Calibri Light;
+	text-align: center;
+	margin-top: 5px;
+}
